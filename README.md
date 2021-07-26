@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hisham247
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning php,nodejs,express and more
+- 🌱 I’m currently learning php,laravel,nodejs,express and more
 - 💞️ I’m looking to collaborate on a suitable job to express my skills 
 - 📫 How to reach me hisham.barakat888@gmail.com
 
